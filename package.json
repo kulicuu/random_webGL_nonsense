@@ -1,0 +1,38 @@
+{
+    "name": "generative-art-proto-000",
+    "version": "0.0.1",
+    "dependencies": {
+        "bluebird": "latest",
+        "body-parser": "latest",
+        "coffee-script": "latest",
+        "coffee-loader": "latest",
+        "express": "latest",
+        "gl-matrix": "2.3.2",
+        "immutable": "latest",
+        "keymirror": "latest",
+        "lodash": "latest",
+        "primus": "latest",
+        "shortid": "latest",
+        "node-uuid": "latest",
+        "normalizr": "latest",
+        "react": "15.1.0",
+        "react-addons-pure-render-mixin": "latest",
+        "react-dom": "15.1.0",
+        "react-redux": "latest",
+        "react-router": "latest",
+        "react-router-redux": "next",
+        "redux": "latest",
+        "redux-immutable": "latest",
+        "redux-logger": "latest",
+        "redux-promise": "latest",
+        "redux-thunk": "latest",
+        "rxjs": "latest",
+        "source-map-loader": "latest",
+        "ws": "latest"
+    },
+    "devDependencies": {
+        "webpack": "latest",
+        "webpack-glsl-loader": "latest",
+        "chai": "latest"
+    }
+}
